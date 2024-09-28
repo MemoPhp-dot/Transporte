@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itFormulario"
+        android:title="@string/formulario" />
+    <item
+        android:id="@+id/itConsultar"
+        android:title="@string/consultar" />
+    <item
+        android:id="@+id/itCerrar"
+        android:title="@string/cerrar" />
+</menu>
